@@ -1,0 +1,7 @@
+/* sample CSS for ecSTATic widget - copy 'n paste to style.css in your theme folder */
+.widget {list-style:none;}
+.ecstatic_widget_table {width:180px;margin:0;padding:0.25em 0;border:thin solid gray;}
+.ecstatic_widget_table {-moz-border-radius:8px;-webkit-border-radius:8px;-khtml-border-radius:8px;border-radius:8px;}
+.ecstatic_label {font-size:x-small;color:blue;text-align:right;padding-right:0.5em;}
+.ecstatic_num {font-size:x-small;color:brown;text-align:right;padding-right:1em;}
+.ecstatic_widget_blurb {text-align:right;font-size:xx-small;color:gray;}

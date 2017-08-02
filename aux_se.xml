@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE table [
+<!ELEMENT table (row+)>
+<!ELEMENT row (token, name, qsig, path)>
+<!ELEMENT token (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT qsig (#PCDATA)>
+<!ELEMENT path (#PCDATA)>
+]>
+<table>
+<row><token>100links.supereva.it</token><name>100Links</name><qsig>q</qsig><path></path></row>
+<row><token>2020search.c</token><name>2020Search</name><qsig>us</qsig><path></path></row>
+<row><token>abcsearch.com</token><name>abcsearch.com</name><qsig>terms</qsig><path></path></row>
+<row><token>alexa.com</token><name>Alexa</name><qsig>q</qsig><path></path></row>
+<row><token>search.alice.it</token><name>Alice</name><qsig>qs</qsig><path></path></row>
+<row><token>alltheweb.com</token><name>Alltheweb</name><qsig>q</qsig><path></path></row>
+<row><token>.altavista.com</token><name>Altavista</name><qsig>q</qsig><path></path></row>
+<row><token>search.aol.com</token><name>AOL</name><qsig>query</qsig><path></path></row>
+<row><token>aolrecherches.aol.fr</token><name>AOL</name><qsig>query</qsig><path></path></row>
+<row><token>search.aol.com/aol/search</token><name>AOL</name><qsig>q</qsig><path>/aol/search</path></row>
+<row><token>search.aol.com/aol/imageDetails</token><name>AOL Images</name><qsig>q</qsig><path>/aol/image</path></row>
+<row><token>arianna.libero.it</token><name>Arianna</name><qsig>query</qsig><path></path></row>
+<row><token>ask.com</token><name>Ask</name><qsig>q</qsig><path></path></row>
+<row><token>www.centurylink.net/search</token><name>Centurylink</name><qsig>q</qsig><path>/search/index.php</path></row>
+<row><token>search.clarence.com</token><name>Clarence</name><qsig>q</qsig><path></path></row>
+<row><token>clusty.com</token><name>Clusty</name><qsig>query</qsig><path></path></row>
+<row><token>search.conduit.com</token><name>Conduit</name><qsig>q</qsig><path>/Results.aspx</path></row>
+<row><token>search.dmoz.org</token><name>DMOZ</name><qsig>search</qsig><path></path></row>
+<row><token>dogpile.com</token><name>Dogpile</name><qsig>q</qsig><path></path></row>
+<row><token>excite.</token><name>Excite</name><qsig>q</qsig><path></path></row>
+<row><token>excite.co.jp</token><name>Excite jp</name><qsig>search</qsig><path>/search.gw</path></row>
+<row><token>suche.freenet.de</token><name>Freenet.de</name><qsig>query</qsig><path></path></row>
+<row><token>search.gazzetta.it</token><name>Gazzetta</name><qsig>q</qsig><path></path></row>
+<row><token>.godago.com</token><name>Godago</name><qsig>keywords</qsig><path></path></row>
+<row><token>www.google.</token><name>Google</name><qsig>as_q</qsig><path></path></row>
+<row><token>www.google.</token><name>Google</name><qsig>as_epq</qsig><path></path></row>
+<row><token>www.google.*/url</token><name>Google</name><qsig>q</qsig><path>/search</path></row>
+<row><token>www.google.*/search</token><name>Google</name><qsig>q</qsig><path>/search</path></row>
+<row><token>google.*/imglanding</token><name>Google</name><qsig>q</qsig><path>/images</path></row>
+<row><token>blogsearch.google.</token><name>Google Blogs</name><qsig>q</qsig><path></path></row>
+<row><token>www.google.*/custom</token><name>Google custom</name><qsig>q</qsig><path>/custom</path></row>
+<row><token>groups.google.</token><name>Google Groups</name><qsig>q</qsig><path></path></row>
+<row><token>images.google.</token><name>Google Images</name><qsig>q</qsig><path>/images</path></row>
+<row><token>www.google.*/imgres</token><name>Google Images</name><qsig>q</qsig><path>/images</path></row>
+<row><token>google.com/m</token><name>Google Mobile</name><qsig>q</qsig><path></path></row>
+<row><token>translate.google.</token><name>Google Trans</name><qsig>u</qsig><path>/translate</path></row>
+<row><token>hotbot.com</token><name>HotBot</name><qsig>query</qsig><path></path></row>
+<row><token>search.icq.com</token><name>ICQ</name><qsig>q</qsig><path></path></row>
+<row><token>categorie.iltrovatore.it</token><name>Il Trovatore</name><qsig>query</qsig><path></path></row>
+<row><token>search.iltrovatore.it</token><name>Il Trovatore</name><qsig>q</qsig><path></path></row>
+<row><token>italiapuntonet.net</token><name>ItaliaPuntoNet</name><qsig>search</qsig><path></path></row>
+<row><token>ixquick.com</token><name>ixquick</name><qsig>query</qsig><path></path></row>
+<row><token>servizi.mediaset.it</token><name>Jumpy</name><qsig>searchWord</qsig><path></path></row>
+<row><token>kataweb.it</token><name>Kataweb</name><qsig>q</qsig><path></path></row>
+<row><token>cerca.lycos.it</token><name>Lycos</name><qsig>query</qsig><path></path></row>
+<row><token>lycos.</token><name>Lycos</name><qsig>q</qsig><path></path></row>
+<row><token>metacrawler.</token><name>Metacrawler</name><qsig>q</qsig><path></path></row>
+<row><token>bing.com</token><name>Microsoft Bing</name><qsig>q</qsig><path></path></row>
+<row><token>msn.</token><name>MSN</name><qsig>q</qsig><path></path></row>
+<row><token>mysearch.com</token><name>My Search</name><qsig>searchfor</qsig><path></path></row>
+<row><token>mysearch.myway.com</token><name>My Way</name><qsig>searchfor</qsig><path></path></row>
+<row><token>mywebsearch.com</token><name>MyWebSearch</name><qsig>searchfor</qsig><path></path></row>
+<row><token>search.netscape.com</token><name>Netscape Search</name><qsig>query</qsig><path></path></row>
+<row><token>optimum.net/Search</token><name>Optimum</name><qsig>q</qsig><path>/Search</path></row>
+<row><token>overture.com</token><name>Overture</name><qsig>Keywords</qsig><path></path></row>
+<row><token>paginegialle.it</token><name>PagineGialle</name><qsig>qs</qsig><path></path></row>
+<row><token>play-mp3.com/search</token><name>Play-MP3</name><qsig>q</qsig><path>/search</path></row>
+<row><token>nova.rambler.ru/srch</token><name>Rambler</name><qsig>query</qsig><path></path></row>
+<row><token>search.it</token><name>Search</name><qsig>srctxt</qsig><path></path></row>
+<row><token>search.com</token><name>Search</name><qsig>q</qsig><path></path></row>
+<row><token>search.startnow.</token><name>StartNow</name><qsig>q</qsig><path></path></row>
+<row><token>supereva.it</token><name>Supereva</name><qsig>q</qsig><path></path></row>
+<row><token>www.surphace.com/search</token><name>Surphace</name><qsig>q</qsig><path>/search/</path></row>
+<row><token>suche.t-online.de/fast-cgi</token><name>T-Online.de</name><qsig>q</qsig><path>/fast-cgi/tsc?mandant=toi&amp;context=internet-tab</path></row>
+<row><token>technorati.com*return=posts</token><name>Technorati Posts</name><qsig>q</qsig><path>/search?return=posts</path></row>
+<row><token>technorati.com*return=sites</token><name>Technorati Sites</name><qsig>q</qsig><path>/search?return=sites&amp;authority=all</path></row>
+<row><token>teoma.com</token><name>Teoma</name><qsig>q</qsig><path></path></row>
+<row><token>search-dyn.tiscali.</token><name>Tiscali</name><qsig>key</qsig><path></path></row>
+<row><token>www.twingly.com/search</token><name>Twingly</name><qsig>q</qsig><path>/search</path></row>
+<row><token>search.virgilio.it</token><name>Virgilio</name><qsig>qs</qsig><path></path></row>
+<row><token>ricerca.alice.it/ricerca</token><name>Virgilio</name><qsig>qs</qsig><path></path></row>
+<row><token>ricercaimmagini.virgilio.it</token><name>Virgilio</name><qsig>qs</qsig><path>/immagini</path></row>
+<row><token>voila.fr</token><name>Voilà</name><qsig>kw</qsig><path></path></row>
+<row><token>web.de</token><name>Web.de</name><qsig>su</qsig><path></path></row>
+<row><token>search.live.com</token><name>Windows Live</name><qsig>q</qsig><path></path></row>
+<row><token>search.yahoo.com/search</token><name>Yahoo</name><qsig>p</qsig><path></path></row>
+<row><token>search.yahoo.com/avg</token><name>Yahoo avg</name><qsig>p</qsig><path>/avg/search?partnerid=yhs-avg</path></row>
+<row><token>search.yahoo.com/bin</token><name>Yahoo bin</name><qsig>p</qsig><path>/bin/search</path></row>
+<row><token>search.yahoo.com/images</token><name>Yahoo Images</name><qsig>p</qsig><path>/images</path></row>
+<row><token>kr.image.search.yahoo.com</token><name>Yahoo Korea</name><qsig>p</qsig><path>/images</path></row>
+<row><token>m.yahoo.com</token><name>Yahoo m</name><qsig>p</qsig><path>/search</path></row>
+<row><token>search.yahoo.com/metro</token><name>Yahoo metro</name><qsig>p</qsig><path>/search</path></row>
+<row><token>yandex.ru/yandsearch</token><name>Yandex</name><qsig>text</qsig><path></path></row>
+<row><token>www.yauba.</token><name>Yauba</name><qsig>q</qsig><path>/</path></row>
+<row><token>youtube.*/results</token><name>YouTube</name><qsig>q</qsig><path>/results</path></row>
+</table>
